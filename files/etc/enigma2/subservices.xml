@@ -3,7 +3,7 @@
 
 	<channelgroup name="Sky Sport HD" notActiveShowName="Momentan kein Programm" displayPattern="title:time:len=65">
 		<channel>
-			<name>Sky Sport HD 1</name>
+			<name>Sky Sport HD 1 testxml</name>
 			<ref>1:0:19:81:6:85:C00000:0:0:0:</ref>
 		</channel>
 		<channel>
